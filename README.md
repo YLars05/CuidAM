@@ -1,6 +1,6 @@
-# CuidAM Frames
+# CuidAM Frames - SIGMA Hackathon 15-10-26 ETSINF-UPV
 
-Presentación web interactiva de una propuesta de detección pasiva de residuos e incidencias urbanas en Valencia mediante fotogramas capturados desde vehículos en circulación.
+Presentación web interactiva de una propuesta de detección pasiva de residuos e incidencias urbanas en la ciudad de València mediante fotogramas capturados desde vehículos en circulación.
 
 ## Abrir la web
 
